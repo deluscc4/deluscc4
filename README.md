@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/deluscc4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deluscc4&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deluscc4&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="deluscc4-redhat" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
