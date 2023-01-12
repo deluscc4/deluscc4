@@ -3,9 +3,7 @@
 - Support Engineer at SAP 🔵
 - Bug Hunter on tracking (☞ﾟヮﾟ)☞
 
-<div align="center">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deluscc4)](https://github.com/deluscc4/github-readme-stats)
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="deluscc4-redhat" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
   <img align="center" alt="deluscc4-bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
