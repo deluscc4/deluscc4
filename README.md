@@ -4,7 +4,6 @@
 - Bug Hunter on tracking (☞ﾟヮﾟ)☞
 
 <div align="center">
-  <a href="https://github.com/deluscc4">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deluscc4)](https://github.com/deluscc4/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
